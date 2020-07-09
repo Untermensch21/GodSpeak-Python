@@ -2,7 +2,7 @@
 
 you will need:
 
-* pip install pyttsx3 *
+* pip install pyttsx3 
 
 So the voice gets activated
 
