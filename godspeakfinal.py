@@ -3,7 +3,7 @@ from random import randrange
 import linecache as lc
 
 engine = pyttsx3.init()
-
+engine.setProperty('rate', 225)
 
 engine.say("God says \n")
 print("God says")
